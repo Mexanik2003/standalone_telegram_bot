@@ -2,7 +2,7 @@
 
 /*
     Для установки сертификата ввести строке браузера
-    https://api.telegram.org/bot<token>/setwebhook?url=https://task.itburg.pro/<путь_до_скрипта>/telegram_webhook.php
+    https://api.telegram.org/bot<token>/setwebhook?url=<путь_до_скрипта>/telegram_webhook.php
  
     Для удаления WebHook
     https://api.telegram.org/bot<token>/setwebhook
