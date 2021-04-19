@@ -14,7 +14,7 @@
     4) создаем копию базы SQL, чистим заявки, категории, группы категорий, лог, юзеров
     5) создаем бота через BotFather
     6) прописываем параметры базы и бота в файле config.php (имя бота, токен, имя базы)
-    7) Регистрируем через TOR вебхук: https://api.telegram.org/bot<token>/setwebhook?url=https://task.itburg.pro/<путь_до_скрипта>/telegram_webhook.php
+    7) Регистрируем вебхук: https://api.telegram.org/bot<token>/setwebhook?url=<путь_до_скрипта>/telegram_webhook.php
     8) Начинаем чат с ботом, вводим команду /start и вписываем через phpmyadmin нового админа
     
     
